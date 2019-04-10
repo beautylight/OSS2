@@ -4,7 +4,7 @@ Fibonacci() {
 	i=0
 	j=1
 	num=0
-	count=1
+	count=2
 	while [ $count -le $1 ]
 	do
 	((count++))
